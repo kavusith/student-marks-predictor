@@ -1,0 +1,3 @@
+git add student_marks.pkl
+git commit -m "Add trained model file"
+git push
